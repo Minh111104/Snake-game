@@ -29,3 +29,7 @@ This is a Python-based "Snake Game" built using the _'Turtle'_ graphics module. 
 4. **Tail Collision**: If the snake's head collides with any part of its own body, the game resets the snake and the score.
 
 5. **Score Reset**: The score is reset when the snake hits the wall or its tail.
+
+## License
+
+This project is created for educational purpose.
